@@ -135,6 +135,9 @@ Markdown.
 + Budnick, Kayleigh
 + Burns, Kyle
 + Carbone, Vincenzo
+    - Connect data science to the world of sports analytics.
+    - Improve my literacy with VS code, quarto, and git.
+    - Have an in depth understanding of python. 
 + Davis, Reid
 + Desai, Alysha
 + Faisal, Zaynab

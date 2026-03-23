@@ -24,7 +24,10 @@ book:
     - 03-quarto.qmd
     - 04-python.qmd
     - 05-ethics_communiacation.qmd
-    - 06-topics.qmd
+    - 06-topics-DAE.qmd
+    - 07-topics-DWV.qmd
+    - 08-topics-SMML.qmd
+    - 09-topics-AMAI.qmd
     - 01-case-study/01-case-study.qmd
    # - 05-visualization.qmd
    # - 06-manipulation.qmd
